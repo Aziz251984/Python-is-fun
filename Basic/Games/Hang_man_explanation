@@ -1,0 +1,10 @@
+👋 Hi there! I'd be happy to explain the Hangman game in a more emoji-filled way! Here's how it works:
+
+1️⃣ The game starts by choosing a random word from a list of words 📝
+2️⃣ The player is then shown a row of underscores representing the letters in the word, with each underscore representing a letter in the word that needs to be guessed 🔠
+3️⃣ The player has to guess the word by suggesting one letter at a time 🤔
+4️⃣ If the guessed letter is in the word, it will be revealed in its corresponding underscore(s) 🔍
+5️⃣ If the guessed letter is not in the word, the player loses a try and a part of a stick figure is drawn to represent the progress of the hangman game 🧑‍🎨
+6️⃣ The game continues until the player either correctly guesses the word, or the hangman is fully drawn, indicating that the player has run out of tries and lost the game 💀
+
+I hope this explanation helps! Let me know if you have any further questions! 🤗
