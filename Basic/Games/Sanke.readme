@@ -1,0 +1,25 @@
+🐍🍎🎮 Welcome to Snake Game! 🎮🍎🐍
+
+🎮 Game Controls:
+👉 Use the arrow keys to move the snake.
+👉 The goal is to eat the red apples without hitting the walls or the snake's own body.
+
+🐍🍎 Game Objects:
+🟢 The snake: grows in length when it eats an apple, and dies if it hits a wall or its own body.
+🍎 The apple: appears randomly on the screen for the snake to eat.
+
+👀 Keep an eye on:
+❌ Collisions: if the snake hits the walls or its own body, it's game over!
+📈 Snake's length: the longer the snake, the harder it is to navigate.
+🏆 Score: every time the snake eats an apple, the score increases.
+
+🔥 Game Difficulty:
+👉 The game starts at a normal speed.
+👉 After eating a certain number of apples, the snake's speed increases, making it harder to control.
+
+👨‍💻 Technical Details:
+👉 The game is built using the Python programming language.
+👉 It uses the Pygame library for graphics and sound.
+👉 The game can be run on any platform that supports Python and Pygame.
+
+🎉🎉🎉 Good luck and have fun! 🎉🎉🎉
